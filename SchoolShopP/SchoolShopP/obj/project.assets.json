@@ -256,11 +256,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\college\\fourcourse\\всякаяхуйня\\SchoolShopP\\SchoolShopP\\SchoolShopP.csproj",
+      "projectUniqueName": "D:\\college\\fourcourse\\уп\\1 задание\\rel\\SchoolShopP\\SchoolShopP\\SchoolShopP.csproj",
       "projectName": "SchoolShopP",
-      "projectPath": "D:\\college\\fourcourse\\всякаяхуйня\\SchoolShopP\\SchoolShopP\\SchoolShopP.csproj",
+      "projectPath": "D:\\college\\fourcourse\\уп\\1 задание\\rel\\SchoolShopP\\SchoolShopP\\SchoolShopP.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\college\\fourcourse\\всякаяхуйня\\SchoolShopP\\SchoolShopP\\obj\\",
+      "outputPath": "D:\\college\\fourcourse\\уп\\1 задание\\rel\\SchoolShopP\\SchoolShopP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

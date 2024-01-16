@@ -83,3 +83,32 @@ D:\college\fourcourse\всякаяхуйня\SchoolShopP\SchoolShopP\obj\Debug\S
 D:\college\fourcourse\всякаяхуйня\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.pdb
 D:\college\fourcourse\всякаяхуйня\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.csproj.AssemblyReference.cache
 D:\college\fourcourse\всякаяхуйня\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.csproj.SuggestedBindingRedirects.cache
+D:\college\fourcourse\уп\1 задание\rel\SchoolShopP\SchoolShopP\bin\Debug\SchoolShopP.exe.config
+D:\college\fourcourse\уп\1 задание\rel\SchoolShopP\SchoolShopP\bin\Debug\SchoolShopP.exe
+D:\college\fourcourse\уп\1 задание\rel\SchoolShopP\SchoolShopP\bin\Debug\SchoolShopP.pdb
+D:\college\fourcourse\уп\1 задание\rel\SchoolShopP\SchoolShopP\bin\Debug\EntityFramework.SqlServer.dll
+D:\college\fourcourse\уп\1 задание\rel\SchoolShopP\SchoolShopP\bin\Debug\EntityFramework.dll
+D:\college\fourcourse\уп\1 задание\rel\SchoolShopP\SchoolShopP\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\college\fourcourse\уп\1 задание\rel\SchoolShopP\SchoolShopP\bin\Debug\ru\EntityFramework.resources.dll
+D:\college\fourcourse\уп\1 задание\rel\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.csproj.AssemblyReference.cache
+D:\college\fourcourse\уп\1 задание\rel\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.csproj.SuggestedBindingRedirects.cache
+D:\college\fourcourse\уп\1 задание\rel\SchoolShopP\SchoolShopP\obj\Debug\Page\AddEditePage.g.cs
+D:\college\fourcourse\уп\1 задание\rel\SchoolShopP\SchoolShopP\obj\Debug\Page\OrderPage.g.cs
+D:\college\fourcourse\уп\1 задание\rel\SchoolShopP\SchoolShopP\obj\Debug\Windows\MainWindow.g.cs
+D:\college\fourcourse\уп\1 задание\rel\SchoolShopP\SchoolShopP\obj\Debug\Page\ProductPage.g.cs
+D:\college\fourcourse\уп\1 задание\rel\SchoolShopP\SchoolShopP\obj\Debug\App.g.cs
+D:\college\fourcourse\уп\1 задание\rel\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP_Content.g.cs
+D:\college\fourcourse\уп\1 задание\rel\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP_MarkupCompile.cache
+D:\college\fourcourse\уп\1 задание\rel\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP_MarkupCompile.lref
+D:\college\fourcourse\уп\1 задание\rel\SchoolShopP\SchoolShopP\obj\Debug\App.baml
+D:\college\fourcourse\уп\1 задание\rel\SchoolShopP\SchoolShopP\obj\Debug\Page\AddEditePage.baml
+D:\college\fourcourse\уп\1 задание\rel\SchoolShopP\SchoolShopP\obj\Debug\Page\OrderPage.baml
+D:\college\fourcourse\уп\1 задание\rel\SchoolShopP\SchoolShopP\obj\Debug\Windows\MainWindow.baml
+D:\college\fourcourse\уп\1 задание\rel\SchoolShopP\SchoolShopP\obj\Debug\Page\ProductPage.baml
+D:\college\fourcourse\уп\1 задание\rel\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.g.resources
+D:\college\fourcourse\уп\1 задание\rel\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.Properties.Resources.resources
+D:\college\fourcourse\уп\1 задание\rel\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.csproj.GenerateResource.cache
+D:\college\fourcourse\уп\1 задание\rel\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.csproj.CoreCompileInputs.cache
+D:\college\fourcourse\уп\1 задание\rel\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.csproj.CopyComplete
+D:\college\fourcourse\уп\1 задание\rel\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.exe
+D:\college\fourcourse\уп\1 задание\rel\SchoolShopP\SchoolShopP\obj\Debug\SchoolShopP.pdb

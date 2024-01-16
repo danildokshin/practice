@@ -20,7 +20,7 @@
         </Grid.ColumnDefinitions>
         <StackPanel Orientation="Horizontal" Grid.Row="0" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">
             <StackPanel Orientation="Horizontal" Margin="5">
-                <TextBlock Text="Поиск" Style="{StaticResource  MainTextBlock}" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="22" FontWeight="Medium"/>
+                <TextBlock Text="Поиск" Style="{StaticResource  MainTextBlock}" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" FontWeight="Medium"/>
                 <TextBox Width="150" Style="{StaticResource  MainTextBox}" VerticalContentAlignment="Center" Height="30" Name="SearhBox" TextChanged="SearhBox_TextChanged"/>
             </StackPanel>
             <StackPanel Orientation="Vertical" Margin="5" VerticalAlignment="Center">
