@@ -82,7 +82,7 @@
         <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="2" Grid.Column="1">
             <Button x:Name="AddProductButton" Content="Добавить" Style="{StaticResource StyleButton}" Click="AddProductButton_Click"/>
             <Button x:Name="EditProductButton" Content="Изменить" Style="{StaticResource StyleButton}" Click="EditProductButton_Click"/>
-            <Button x:Name="DeleteProductButton" Content="Удалить" Style="{StaticResource StyleButton}" Click="DeleteProductButton_Click"/>
+            <Button x:Name="DeleteProductButton" Content="Удалить" Style="{StaticResource StyleButton}" Click="DeleteProductButton_Click" Visibility="Collapsed"/>
             
             <Button x:Name="OrderButton" Content="Заказы" Style="{StaticResource StyleButton}" Click="OrderButton_Click" Visibility="Collapsed"/>
         </StackPanel>
