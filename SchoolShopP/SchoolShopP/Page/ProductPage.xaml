@@ -79,7 +79,7 @@
             </ListView>
         </DockPanel>
         
-        <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="2" Grid.Column="1">
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="2" Grid.Column="1" Visibility="Collapsed">
             <Button x:Name="AddProductButton" Content="Добавить" Style="{StaticResource StyleButton}" Click="AddProductButton_Click"/>
             <Button x:Name="EditProductButton" Content="Изменить" Style="{StaticResource StyleButton}" Click="EditProductButton_Click"/>
             <Button x:Name="DeleteProductButton" Content="Удалить" Style="{StaticResource StyleButton}" Click="DeleteProductButton_Click" Visibility="Collapsed"/>
